@@ -38,7 +38,7 @@ export default function Page() {
   className="h-[200px]"
   src={
     noCount >= 7
-      ? "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR0ZWp2NnRldnl1NXE0OWQ5bWV6cHJhbzYwcWdlOGpia3RvejRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y93x7gLXTO5dnSWCEI/giphy.gif"
+      ? "public/CatGunGIF.gif"
       : "https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
   }
 />
