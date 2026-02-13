@@ -36,11 +36,7 @@ export default function Page() {
         <>
          <img
   className="h-[200px]"
-  src={
-    noCount >= 7
-      ? "public/CatGunGIF.gif"
-      : "https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
-  }
+  src= "https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
 />
           <h1 className="my-4 text-4xl text-center">Ka Valentine ni laa, maww 🥺?</h1>
           <div className="flex items-center flex-col lg:flex-row  gap-4">
